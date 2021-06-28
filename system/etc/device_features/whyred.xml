@@ -19,7 +19,7 @@
     <!--whether the device has dual systems-->
     <bool name="is_dual_system">false</bool>
     <!--whether the device has dual sd card-->
-    <bool name="support_dual_sd_card">true</bool>
+    <bool name="support_dual_sd_card">false</bool>
     <!--whether the device supports bt debug trace-->
     <bool name="btdebug_enabled">true</bool>
     <!--whether the device supports page layout-->
